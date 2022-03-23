@@ -2,7 +2,9 @@
 
 My Statistics
 
-![RexHung's GitHub stats](https://github-readme-stats.vercel.app/api?username=RexHung0302&count_private=true&show_icons=true&theme=buefy)
+![RexHung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexHung0302&count_private=true&show_icons=true&theme=buefy)
+
+![RexHung's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RexHung0302&layout=compact)
 
 See My Blog 👉
 
