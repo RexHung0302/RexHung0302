@@ -6,7 +6,7 @@ My Statistics
 
 See My Blog 👉
 
-- ![RexHung Blog](https://rexhung0302.github.io/)
+- [RexHung Blog](https://rexhung0302.github.io/)
 
 <!--
 **RexHung0302/RexHung0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
